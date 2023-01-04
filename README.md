@@ -17,3 +17,15 @@ exiftool -csv -r image > out.csv
     1 directories scanned
    95 image files read
 
+# resources
+## pandas
+https://datatofish.com/convert-string-to-float-dataframe/
+https://www.w3schools.com/python/pandas/pandas_plotting.asp
+
+
+## exif
+https://photo.stackexchange.com/
+https://buildmedia.readthedocs.org/media/pdf/exif/latest/exif.pdf
+### csv file
+https://exiftool.org/faq.html#Q12   
+
