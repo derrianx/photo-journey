@@ -29,3 +29,14 @@ https://buildmedia.readthedocs.org/media/pdf/exif/latest/exif.pdf
 ### csv file
 https://exiftool.org/faq.html#Q12   
 
+
+
+# new idea with dalle
+
+The official DALL-E GitHub repository (https://github.com/lucidrains/DALLE-pytorch) provides a detailed tutorial on how to train DALL-E on a custom dataset. It includes instructions for preparing the dataset, training the model, and generating new images.
+
+The OpenAI website (https://openai.com/dall-e/) also provides a tutorial on how to train DALL-E on a custom dataset, including instructions on how to use the OpenAI API to generate images from text prompts.
+
+There is a tutorial in the Hugging Face website (https://huggingface.co/blog/dall-e-2-image-generation-tutorial) which provides a step-by-step guide on how to train DALL-E on a custom dataset and use it to generate new images.
+
+It is important to note that the training of DALL-E is a computationally intensive task, it may require a powerful GPU and a lot of memory.
